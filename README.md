@@ -1,4 +1,4 @@
-# Elsword-KOM-editor
+# Elsword KOM editor
 An editor for Elsword's .kom datafiles.
 
 # Dependencies
